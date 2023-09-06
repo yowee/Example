@@ -1,0 +1,13 @@
+//    Zettle SDK
+//
+//    githubAccessToken - Personal access token with read rights to github package registry
+//    clientId - Auto generated client id from developer portal for this application
+//    redirectUrlScheme - OAuth redirect url scheme set on developer portal for this application
+//    redirectUrlHost - OAuth redirect url scheme set on developer portal for this application
+
+ext.zettleSDK = [:]
+
+ext.zettleSDK.githubAccessToken = "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"
+ext.zettleSDK.clientId = "9e4f124d-ba90-455e-8a2e-0b018954adf7"
+ext.zettleSDK.redirectUrlScheme = "https://ww.google/com"
+ext.zettleSDK.redirectUrlHost = "https://ww.google/com"
